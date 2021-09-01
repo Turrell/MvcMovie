@@ -38,3 +38,4 @@ C:\Users\tytur\source\repos\visual_studio\MvcMovie\obj\Debug\net5.0\ref\MvcMovie
 C:\Users\tytur\source\repos\visual_studio\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 C:\Users\tytur\source\repos\visual_studio\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\Users\tytur\source\repos\visual_studio\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Users\tytur\source\repos\visual_studio\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
