@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tytur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tytur\\.nuget\\packages"
+    ]
+  }
+}
