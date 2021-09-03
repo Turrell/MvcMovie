@@ -49,7 +49,7 @@ namespace MvcMovie.Models
                      {
                          Title = "Rio Bravo",
                          ReleaseDate = DateTime.Parse("1959-4-15"),
-                         Genre = "Comedy",
+                         Genre = "Western",
                          Price = 3.99M
                      }
 

@@ -48,7 +48,7 @@ namespace MvcMovie.Controllers
 
             };
 
-            return View(await movies.ToListAsync());
+            return View(movieGenreVM);
         }
 
         // GET: Movies/Details/5
